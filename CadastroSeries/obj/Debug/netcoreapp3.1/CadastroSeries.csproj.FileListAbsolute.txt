@@ -1,0 +1,13 @@
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.exe
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.deps.json
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.json
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.dev.json
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.pdb
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csprojAssemblyReference.cache
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfoInputs.cache
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfo.cs
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.pdb
+C:\VisualStudio\DIO\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.genruntimeconfig.cache
